@@ -23,9 +23,11 @@ The **Gameloft JAR Archive** is a comprehensive preservation project dedicated t
 ### Current Status
 
 - **Active Games**: 1 (Wonder Zoo)
-- **Total Versions**: In progress
+- **Total Versions**: 28 files across 17 version releases
+- **Version Range**: 1.0.4 - 1.4.6
+- **Screen Resolutions**: 7 different resolutions
 - **Documentation**: Complete
-- **Languages**: Primarily Russian
+- **Languages**: English, Russian, Portuguese (primarily Russian)
 
 ### Repository Structure
 
@@ -139,9 +141,11 @@ Gameloft-JAR-Archive/
 ### Текущий статус
 
 - **Активные игры**: 1 (Wonder Zoo)
-- **Всего версий**: В процессе
+- **Всего версий**: 28 файлов в 17 релизах
+- **Диапазон версий**: 1.0.4 - 1.4.6
+- **Разрешения экрана**: 7 различных разрешений
 - **Документация**: Завершена
-- **Языки**: В основном русский
+- **Языки**: Английский, Русский, Португальский (в основном русский)
 
 ### Структура репозитория
 
@@ -246,5 +250,5 @@ Gameloft-JAR-Archive/
 ---
 
 **Status**: 🟢 Active | Активен
-**Last Updated**: 2026-02-04
+**Last Updated**: 2026-02-05
 **Maintainer**: Community-driven / Поддерживается сообществом

@@ -8,24 +8,40 @@
 
 ### Available Versions
 
-This directory will contain all available versions of Wonder Zoo for Java feature phones.
+This directory contains **28 files** across **17 version releases** of Wonder Zoo for Java feature phones.
 
 #### Version History
 
-- **1.0.0** - Initial release
-- More versions coming soon...
+- **1.0.4** - 128x160 resolution
+- **1.0.6** - Multiple language versions
+- **1.0.7** - Standard release
+- **1.0.8** - Touchscreen support
+- **1.1.0** - Modified version
+- **1.1.1** - Standard release
+- **1.1.2** - High resolution (360x640)
+- **1.1.3** - Multi-language touchscreen versions
+- **1.1.4** - Landscape orientation (320x240)
+- **1.1.8** - Standard release
+- **1.1.9** - Small screen support (176x220)
+- **1.2.0** - Standard release
+- **1.2.2** - Touchscreen and keypad versions
+- **1.2.3** - Russian language version
+- **1.2.4** - Standard release
+- **1.2.5** - Small screen support
+- **1.2.9** - Multiple versions and languages
+- **1.3.9** - Standard release
+- **1.4.6** - High resolution touchscreen (480x800)
 
 ### Screen Resolutions
 
-Common resolutions for Java games:
-- 128x128
-- 128x160
-- 176x208
-- 176x220
-- 240x320
-- 240x400
-- 320x240
-- 352x416
+Available in this archive:
+- 128x160 - Very small screens
+- 176x220 - Small screens
+- 240x320 - Medium screens (most common)
+- 240x400 - Medium screens
+- 320x240 - Landscape medium screens
+- 360x640 - Large screens
+- 480x800 - High resolution touchscreens
 
 ### Control Types
 
@@ -42,24 +58,40 @@ Common resolutions for Java games:
 
 ### Доступные версии
 
-Эта директория будет содержать все доступные версии Wonder Zoo для Java телефонов.
+Эта директория содержит **28 файлов** в **17 релизах** Wonder Zoo для Java телефонов.
 
 #### История версий
 
-- **1.0.0** - Первый релиз
-- Больше версий скоро...
+- **1.0.4** - Разрешение 128x160
+- **1.0.6** - Несколько языковых версий
+- **1.0.7** - Стандартный релиз
+- **1.0.8** - Поддержка сенсорного экрана
+- **1.1.0** - Модифицированная версия
+- **1.1.1** - Стандартный релиз
+- **1.1.2** - Высокое разрешение (360x640)
+- **1.1.3** - Мультиязычные сенсорные версии
+- **1.1.4** - Альбомная ориентация (320x240)
+- **1.1.8** - Стандартный релиз
+- **1.1.9** - Поддержка маленьких экранов (176x220)
+- **1.2.0** - Стандартный релиз
+- **1.2.2** - Сенсорные и клавишные версии
+- **1.2.3** - Русская языковая версия
+- **1.2.4** - Стандартный релиз
+- **1.2.5** - Поддержка маленьких экранов
+- **1.2.9** - Несколько версий и языков
+- **1.3.9** - Стандартный релиз
+- **1.4.6** - Высокое разрешение сенсорный экран (480x800)
 
 ### Разрешения экрана
 
-Распространенные разрешения для Java игр:
-- 128x128
-- 128x160
-- 176x208
-- 176x220
-- 240x320
-- 240x400
-- 320x240
-- 352x416
+Доступные в этом архиве:
+- 128x160 - Очень маленькие экраны
+- 176x220 - Маленькие экраны
+- 240x320 - Средние экраны (наиболее распространенные)
+- 240x400 - Средние экраны
+- 320x240 - Средние экраны в альбомной ориентации
+- 360x640 - Большие экраны
+- 480x800 - Высокое разрешение сенсорные экраны
 
 ### Типы управления
 
